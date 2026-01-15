@@ -5,7 +5,7 @@
 ## 🚀 Features
 
 -   **Secure Authentication**: Log in exclusively with your college email ID (`@vvce.ac.in`) to ensure a verified student community.
--   **Campus Feed**: Stay updated with official announcements, club events, anonymous confessions, and questions.
+-   **Campus Feed**: Stay updated with official announcements, club events and questions.
 -   **Real-time Chat**: Connect with peers via direct messages or group chats.
 -   **AI-Powered Assistant**: Integrated **UniBot** (powered by Gemini API) to answer queries about campus life or general topics.
 -   **Communities**: Discover and join clubs like Robotics, Debate, Dance, and more.
