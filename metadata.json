@@ -1,0 +1,8 @@
+{
+  "name": "UniConnect",
+  "description": "The central social hub for university students. Events, announcements, and secure campus chats.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
