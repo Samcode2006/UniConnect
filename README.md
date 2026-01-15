@@ -13,19 +13,6 @@
     -   **AI Avatars**: Generate unique, artistic profile pictures based on your interests using **Nano Banana** (Gemini 2.5 Flash Image).
     -   **Designer Tags**: Showcase your interests with stylish, interactive tags.
 
-## 📸 Snapshots
-
-### 1. The Campus Feed
-*Stay updated with everything happening around campus.*
-![Feed View](https://via.placeholder.com/800x450.png?text=UniConnect+Feed+View)
-
-### 2. Designer Profiles & AI Avatars
-*Express yourself with AI-generated avatars based on your hobbies.*
-![Profile View](https://via.placeholder.com/800x450.png?text=UniConnect+Profile+View)
-
-### 3. Secure Chat & Communities
-*Connect with clubs and classmates instantly.*
-![Chat Interface](https://via.placeholder.com/800x450.png?text=UniConnect+Chat+Interface)
 
 ## 🛠️ Tech Stack
 
